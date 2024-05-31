@@ -14,4 +14,4 @@ We are respecting the preference of LayerZero for 10% of allocation to go to dev
 
 10% Allocation Developer Address: 0xDcEDF06Fd33E1D7b6eb4b309f779a0e9D3172e44
 
-90% Allocation to YAK Holder Snapshot CSV: 
+90% Allocation to YAK Holder Snapshot CSV: https://github.com/yieldyak/layerzero_rfp_submission/blob/master/addresses_for_layerzero.csv
